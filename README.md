@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aronricardo93" alt="aronricardo93" /> </p> 
 - 🔭 I’m currently looking for a new opportunity<br /> 
-- 🌱 I’m currently learning ***\*HTML, CSS, JavaScript, C, React\****<br /> 
+- 🌱 I’m currently learning <strong>HTML, CSS, JavaScript, C, React</strong>br /> 
 - 🤝 I’m looking to collaborate.<br />
 <p align="center">
 <a href="https://www.linkedin.com/in/aronricardo/" target="blank">
