@@ -4,6 +4,13 @@
 - 🔭 I’m currently looking for a new opportunity<br /> 
 - 🌱 I’m currently learning <strong>HTML, CSS, JavaScript, TypeScript, C, React, GraphQL, Java</strong><br /> 
 - 🤝 I’m looking to collaborate.<br />
+
+<div>
+  <a href="https://github.com/aronricardo93">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aronricardo93&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aronricardo93&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/aronricardo/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="AronRicardo"/></a>
