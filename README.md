@@ -1,7 +1,7 @@
 <h1 align="center">Hi!🤙🏼 I'm Aron Ricardo.</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aronricardo93" alt="aronricardo93" /> </p>
 - 📚 I’m majoring in Software Engineering at UniCesumar<br />
-- 🔭 I’m currently working as a Java developer at GFT<br /> 
+- 🔭 I’m currently working as a Back-end developer at GFT<br /> 
 - 🌱 I’m currently learning... <strong>NodeJS, Database SQL/NOSQL and AWS</strong><br /> 
 - 🤝 I’m looking to collaborate.<br />
 
