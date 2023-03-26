@@ -12,9 +12,8 @@
   <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Aron Ricardo"/></a>
 </div><br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aronricardo93" alt="aronricardo93" /> </p>
-- 📚 I’m majoring in Software Engineering at UniCesumar<br />
-- 🔭 I’m currently working as a Back-end developer at GFT<br /> 
-- 🌱 I’m currently learning... <strong>NodeJS, Database SQL/NOSQL and AWS</strong><br /> 
+- 📚 I’m majoring in Software Engineering at UniCesumar<br /> 
+- 🌱 I’m currently learning... <strong>Java, Kotlin, Docker, Database SQL/NOSQL and AWS</strong><br /> 
 - 🤝 I’m looking to collaborate.<br />
 
 ##
