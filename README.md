@@ -13,7 +13,7 @@
 </div><br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aronricardo93" alt="aronricardo93" /> </p>
 - 📚 I’m majoring in Software Engineering at UniCesumar<br /> 
-- 🌱 I’m currently learning... <strong>Java, Kotlin, Docker, SOLID,Database SQL/NOSQL and AWS</strong><br /> 
+- 🌱 I’m currently learning... <strong>Java, Spring, Kotlin, Docker, SOLID, Database SQL/NOSQL and AWS</strong><br /> 
 - 🤝 I’m looking to collaborate.<br />
 
 ##
