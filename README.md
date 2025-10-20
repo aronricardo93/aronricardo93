@@ -1,4 +1,4 @@
-<h1 align="center">Hi!🤙🏼 I'm Aron Ricardo.</h1>
+<h1 align="center">Hi! I'm Aron Ricardo.</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/aronricardo/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Aron Ricardo"/></a>
@@ -12,7 +12,7 @@
   <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Aron Ricardo"/></a>
 </div><br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aronricardo93" alt="aronricardo93" /> </p>
-- 📚 I’m majoring in Software Engineering at UniCesumar<br /> 
+- 🎓 Bachelor’s Degree in Software Engineering at UniCesumar<br /> 
 - 🌱 I’m currently learning... <strong>Java, Spring, Python, Docker, SOLID, Database SQL/NOSQL and AWS</strong><br /> 
 - 🤝 I’m looking to collaborate.<br />
 
