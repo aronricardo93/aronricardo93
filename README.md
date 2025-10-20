@@ -3,9 +3,7 @@
   <a href="https://www.linkedin.com/in/aronricardo/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Aron Ricardo"/></a>
   <a href="https://www.instagram.com/aronricardo_/" target="_blank"> 
-  <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Aron Ricardo"/></a> 
-  <a href="https://www.facebook.com/aron.ricardo.1/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Aron Ricardo"/></a> 
+  <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Aron Ricardo"/></a>  
   <a href="https://wa.me/+5571999609503?text=Ol%C3%A1,%20Aron%20Ricardo!%20Eu%20vim%20pelo%20GitHub." target="_blank">
   <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Aron Ricardo"/></a>
   <a href="mailto:aronricardo@hotmail.com">
@@ -13,7 +11,7 @@
 </div><br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aronricardo93" alt="aronricardo93" /> </p>
 - 🎓 Bachelor’s Degree in Software Engineering at UniCesumar<br /> 
-- 🌱 I’m currently learning... <strong>Java, Spring, Python, Docker, SOLID, Database SQL/NOSQL and AWS</strong><br /> 
+- 🌱 I’m currently learning... <strong>Java, Spring, Docker, SOLID, SQL/NOSQL Database and AWS</strong><br /> 
 - 🤝 I’m looking to collaborate.<br />
 
 ##
